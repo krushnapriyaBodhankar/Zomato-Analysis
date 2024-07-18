@@ -4,21 +4,21 @@ This project aims to analyze the Zomato dataset to gain insights into restaurant
 
 # Data Description
 The dataset used in this project is obtained from Zomato and includes information about restaurants such as:
-Restaurant name
-Location
-Cuisines offered
-Average cost for two
-Ratings
-Number of votes
-Reviews
+1.Restaurant name
+2.Location
+3.Cuisines offered
+4.Average cost for two
+5.Ratings
+6.Number of votes
+7.Reviews
  
 # Objectives
 The main objectives of this project are:
 
-To understand the distribution of restaurants in different locations.
-To analyze the relationship between restaurant ratings and other features such as cost, location, and cuisine type.
-To identify the most popular cuisines.
-To explore customer reviews and sentiments.
+1.To understand the distribution of restaurants in different locations.
+2.To analyze the relationship between restaurant ratings and other features such as cost, location, and cuisine type.
+3.To identify the most popular cuisines.
+4.To explore customer reviews and sentiments.
 
 # Analysis and Methodology
 Data Cleaning: Handling missing values, duplicate entries, and data type conversions.
