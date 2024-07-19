@@ -1,4 +1,4 @@
-# Indian Restaurants Analysis and Marketing Campaign
+# Zomato Analysis
 
 This project analyzes restaurant data from various regions in India and proposes a marketing campaign based on the insights derived from the analysis. The analysis includes descriptive statistics, distribution analysis, correlation analysis, regional analysis, customer preference analysis, competitive analysis, and market gap analysis.
 
